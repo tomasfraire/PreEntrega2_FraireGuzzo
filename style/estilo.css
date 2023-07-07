@@ -1,0 +1,13 @@
+
+body{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+footer {
+    background: #310000;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
